@@ -1,4 +1,4 @@
-package SintaxeBasica;
+package SintaxeBasica.AnatomiaDasClasses;
 
 public class MinhaClasse {
     public static void main(String[] args) {
