@@ -1,4 +1,4 @@
-package SintaxeBasica.Metodos;
+package Metodos;
 
 public class Sistema_SmartTV {
     boolean ligada = false;
